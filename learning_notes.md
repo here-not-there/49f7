@@ -1,20 +1,20 @@
-# EPAM learning notes
+# bigE learning notes
 
 BIG DATA
 
 Data Transformation
   >- AWS course
 Data Modelling Methodology - Data Warehouse - Data Lake
-  >- EPAM **Data Modeling Basics**
+  >- bigE **Data Modeling Basics**
 Data Modelling Approaches - ER - Dimensional
-  >- EPAM **Data Modeling Basics** 
+  >- bigE **Data Modeling Basics** 
   >- Claude
   >- AWS course
 CI/CD
-  >- EPAM CI/CD overview
+  >- bigE CI/CD overview
 
 Leftovers
-- EPAM Jenkins Overview
+- bigE Jenkins Overview
 
 White spots:
   software development methodology
