@@ -534,3 +534,141 @@ every non-prime attribute in the table is dependent on the primary key non-trans
 - contains historical data for a long period
 - supports incremental loads thanks to easy delta detection between the source system and the dimension table
 - great for SELECT operations
+
+
+
+
+## CLoud Overview
+
+**cloud** 
+  abstracting, pooling, and sharing
+  computing resources
+    servers, switches, routers, operating systems, and security software
+  across a network of devices
+  on or off the premises
+  typically, with higher-level services
+    analytical
+    recovery etc
+
+mixture of technologies
+  operating system
+  management platform
+  APIs
+
+Benefits
+  cost efficiency
+  scalability
+    vertical scaling
+      increasing the size of each resource
+    horizontal scaling
+      adding more resources to your existing clusters
+  elasticity
+    asutomatic scalability on demand
+  service variety
+  reliability
+  security
+
+Deployment models
+  public
+  private
+  hybrid
+    on-premises + private cloud + 3rd party public cloud
+  multi-cloud
+
+
+Types of consumer needs
+  personal/consumer
+  vertical
+    usually in orgainzations with rigid hyerarchy
+      healthcare
+      governmental
+  external
+  internal
+
+
+Cloud service models
+
+Infrastructure as a Service (IaaS)
+  infrastructure
+  examples
+    Cisco
+    Microsoft Azure
+    Amazon Web Services (AWS)
+    Google Compute Engine (GCE)
+    Digital Ocean
+Platform as a Service (PaaS)
+  platform layer
+    operating system
+    pre-built development tools
+    testing
+    runtime
+    middleware
+    and databases
+  examples
+    Azure App Service
+    Salesforce.com
+    Google App Engine
+    AWS Elastic Beanstalk
+    OpenShift
+Software as a Service (SaaS)
+   complete solution, no-code, no-infrastructure
+   examples
+     Google apps (i.e., Gmail or Google Maps)
+      Dropbox
+      Salesforce
+      YouTube
+      Concur
+      GoToMeeting
+      MS Office 365
+
+Use SaaS
+
+For standard solutions requiring a low level of customization and internet access via multiple device types
+When you don't have the skills internally to install, run, and manage the software
+When it's more cost effective to let a specialist run the software
+When you're happy with the SaaS provider's data privacy, service and configuration/integration options
+
+Don’t Use SaaS
+
+When you need a high level of configuration, customization, or specialist integrations
+When you can run it yourself more effectively
+When you have compliance requirements that don’t permit outside hosting
+When extensive experience of business process customization is required
+
+Use PaaS
+
+When developers are comfortable using standardized building blocks
+When developers require the specialized capabilities it provides but no internal team wants to own the service
+For services outside your core business area, such as automation, deployment and monitoring
+
+Don’t Use PaaS
+
+If your project needs proprietary building blocks
+When you are using low level or legacy languages for development
+If the application requires you to customize hardware and software
+When applications generate a transaction volume that might make PaaS services cost prohibitive
+
+Use IaaS
+
+When you need control over your high-performing applications
+When you don’t have the finances to invest in hardware
+When you want to purchase only what you consume or need
+When you need to be able to change out specific hardware and software easily
+
+Don’t Use IaaS
+
+If you are not interested in or able to handle the management of a virtual machine
+If the vendor does not meet your security standards
+
+
+## Containers
+
+**container**
+  a standard unit of software 
+    code and all its dependencies
+
+**container image**
+  a lightweight, stand-alone, executable package of software
+  includes everything needed to run an application
+    code, runtime, system tools, system libraries and settings
+
