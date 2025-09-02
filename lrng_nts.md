@@ -3,18 +3,18 @@
 BIG DATA
 
 - Data Transformation
--- AWS course
+  - AWS course
 - Data Modelling Methodology - Data Warehouse - Data Lake
-  -- bigE **Data Modeling Basics**
+  - bigE **Data Modeling Basics**
 - Data Modelling Approaches - ER - Dimensional
-  -- bigE **Data Modeling Basics** 
-  -- Claude
-  -- AWS course
+  - bigE **Data Modeling Basics** 
+  - Claude
+  - AWS course
 - CI/CD
-  -- bigE CI/CD overview
+  - bigE CI/CD overview
 
 - Leftovers
-  -- bigE Jenkins Overview
+  - bigE Jenkins Overview
 
 White spots:
   software development methodology
@@ -57,44 +57,39 @@ DevOps benefits:
 - frequents merge of smaller code updates into a central repository or version control system
 - automated development and testing are performed
 - aims
-    -- to find and manage bugs faster,
-    -- improve software quality,
-    -- reduce the time needed to validate and release changes
-    -- **create deployable artifact**
+    - to find and manage bugs faster,
+    - improve software quality,
+    - reduce the time needed to validate and release changes
+    - **create deployable artifact**
 
 - Ends with publishing vierified artifact
-  -- artifact repository
-    --- storage
-    --- mangement / version control
+  - artifact repository
+    - storage
+    - mangement / version control
 
 ## **Continuous Delivery**
 
-Continuous Delivery extends Continuous Integration with the deployment of builds to testing or staging environments, where they pass expanded testing. 
-
+Continuous Delivery 
+- extends Continuous Integration
 - deploy to testing environment & test
 - deploy to staging environment & test
 - create release candidate
 - release
 
 Staging environment
-
-a pre-production environment that closely mirrors production setup
-
-used as the final testing phase before deploying code to live users
+- a pre-production environment that closely mirrors production setup
+- used as the final testing phase before deploying code to live users
 
 Test coverage is as complete as possible, including:
-
 - unit tests
 - acceptance tests
 - performance / stability tests
 
 Continuous deployment
-
-automation of release to production
+- automation of release to production
 
 CI/CD pipeline
-
-is a set of steps that must be followed to deliver a new version of the software
+- a set of steps that must be followed to deliver a new version of the software
 
 ## **Infrastructure as a Code**
 
