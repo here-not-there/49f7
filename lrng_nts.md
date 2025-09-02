@@ -3,7 +3,7 @@
 BIG DATA
 
 - Data Transformation
-  -- AWS course
+-- AWS course
 - Data Modelling Methodology - Data Warehouse - Data Lake
   -- bigE **Data Modeling Basics**
 - Data Modelling Approaches - ER - Dimensional
@@ -25,59 +25,47 @@ White spots:
 
 ## **DevOps**
 
-emphasizes collaboration and communication among IT professionals
-
-automates software delivery
-
-automates infrastructure changes.
-
-build, test, release
+What it does:
+- emphasizes collaboration and communication among IT professionals
+- automates software delivery
+- automates infrastructure changes.
+- build, test, release
 
 DevOps benefits:
 
-- higher overall productivity
+- transparent communication
+- continuous feedback
 - faster delivery
 - improved quality
 - lower costs
-- transparent communication
-- continuous feedback
 - faster resolution of issues
-
+- higher overall productivity
+  
 **Core practices**
 
-automation
-
-version control
-
-continuous integration
-
-continuous delivery
-
-configuration management
-
-monitoring and logging
-
-communication
-
-collaboration
+- automation
+- version control
+- continuous integration
+- continuous delivery
+- configuration management
+- monitoring and logging
+- communication
+- collaboration
 
 ## **Continuous Integration**
 
 - frequents merge of smaller code updates into a central repository or version control system
 - automated development and testing are performed
 - aims
-    - to find and manage bugs faster,
-    - improve software quality,
-    - reduce the time needed to validate and release changes
-    - **create deployable artifact**
+    -- to find and manage bugs faster,
+    -- improve software quality,
+    -- reduce the time needed to validate and release changes
+    -- **create deployable artifact**
 
-Ends with publishing vierified artifact
-
-artifact repository
-
-storage
-
-mangement / version control
+- Ends with publishing vierified artifact
+  -- artifact repository
+    --- storage
+    --- mangement / version control
 
 ## **Continuous Delivery**
 
