@@ -2,19 +2,19 @@
 
 BIG DATA
 
-Data Transformation
-  >- AWS course
-Data Modelling Methodology - Data Warehouse - Data Lake
-  >- bigE **Data Modeling Basics**
-Data Modelling Approaches - ER - Dimensional
-  >- bigE **Data Modeling Basics** 
-  >- Claude
-  >- AWS course
-CI/CD
-  >- bigE CI/CD overview
+- Data Transformation
+  -- AWS course
+- Data Modelling Methodology - Data Warehouse - Data Lake
+  -- bigE **Data Modeling Basics**
+- Data Modelling Approaches - ER - Dimensional
+  -- bigE **Data Modeling Basics** 
+  -- Claude
+  -- AWS course
+- CI/CD
+  -- bigE CI/CD overview
 
-Leftovers
-- bigE Jenkins Overview
+- Leftovers
+  -- bigE Jenkins Overview
 
 White spots:
   software development methodology
